@@ -1,0 +1,17 @@
+jstl判断对象为空
+spring 事物不属于aop
+springmvc标签（及相关api）
+HttpClient
+http长连接
+request最长时间
+反射技术
+资源同步
+http/https
+lucene（有什么好玩的功能）
+说说lucene分词器怎么实现的分词的
+3个线程如果一个挨着一个执行 （a执行完，执行b，然后执行c）？
+mybatis与hibernate的区别
+mysql如果获取到自动增长的那个id
+-------数据库技术
+数据库优化、表的索引（用什么实现的）
+
